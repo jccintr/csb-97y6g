@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://jccintr.github.io/csb-97y6g/static/css/main.082bf00f.chunk.css",
+    "main.js": "https://jccintr.github.io/csb-97y6g/static/js/main.58e0a7a7.chunk.js",
+    "main.js.map": "https://jccintr.github.io/csb-97y6g/static/js/main.58e0a7a7.chunk.js.map",
+    "runtime-main.js": "https://jccintr.github.io/csb-97y6g/static/js/runtime-main.46b434e1.js",
+    "runtime-main.js.map": "https://jccintr.github.io/csb-97y6g/static/js/runtime-main.46b434e1.js.map",
+    "static/js/2.9d61473b.chunk.js": "https://jccintr.github.io/csb-97y6g/static/js/2.9d61473b.chunk.js",
+    "static/js/2.9d61473b.chunk.js.map": "https://jccintr.github.io/csb-97y6g/static/js/2.9d61473b.chunk.js.map",
+    "index.html": "https://jccintr.github.io/csb-97y6g/index.html",
+    "static/css/main.082bf00f.chunk.css.map": "https://jccintr.github.io/csb-97y6g/static/css/main.082bf00f.chunk.css.map",
+    "static/js/2.9d61473b.chunk.js.LICENSE.txt": "https://jccintr.github.io/csb-97y6g/static/js/2.9d61473b.chunk.js.LICENSE.txt",
+    "static/media/paladar.677b6843.png": "https://jccintr.github.io/csb-97y6g/static/media/paladar.677b6843.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46b434e1.js",
+    "static/js/2.9d61473b.chunk.js",
+    "static/css/main.082bf00f.chunk.css",
+    "static/js/main.58e0a7a7.chunk.js"
+  ]
+}
