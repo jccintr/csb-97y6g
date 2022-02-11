@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "https://jccintr.github.io/csb-97y6g/static/css/main.0c0d8654.chunk.css",
-    "main.js": "https://jccintr.github.io/csb-97y6g/static/js/main.6e699701.chunk.js",
-    "main.js.map": "https://jccintr.github.io/csb-97y6g/static/js/main.6e699701.chunk.js.map",
+    "main.css": "https://jccintr.github.io/csb-97y6g/static/css/main.16cd7af5.chunk.css",
+    "main.js": "https://jccintr.github.io/csb-97y6g/static/js/main.186d4279.chunk.js",
+    "main.js.map": "https://jccintr.github.io/csb-97y6g/static/js/main.186d4279.chunk.js.map",
     "runtime-main.js": "https://jccintr.github.io/csb-97y6g/static/js/runtime-main.46b434e1.js",
     "runtime-main.js.map": "https://jccintr.github.io/csb-97y6g/static/js/runtime-main.46b434e1.js.map",
     "static/js/2.50f35978.chunk.js": "https://jccintr.github.io/csb-97y6g/static/js/2.50f35978.chunk.js",
     "static/js/2.50f35978.chunk.js.map": "https://jccintr.github.io/csb-97y6g/static/js/2.50f35978.chunk.js.map",
     "index.html": "https://jccintr.github.io/csb-97y6g/index.html",
-    "static/css/main.0c0d8654.chunk.css.map": "https://jccintr.github.io/csb-97y6g/static/css/main.0c0d8654.chunk.css.map",
+    "static/css/main.16cd7af5.chunk.css.map": "https://jccintr.github.io/csb-97y6g/static/css/main.16cd7af5.chunk.css.map",
     "static/js/2.50f35978.chunk.js.LICENSE.txt": "https://jccintr.github.io/csb-97y6g/static/js/2.50f35978.chunk.js.LICENSE.txt",
     "static/media/paladar.677b6843.png": "https://jccintr.github.io/csb-97y6g/static/media/paladar.677b6843.png"
   },
   "entrypoints": [
     "static/js/runtime-main.46b434e1.js",
     "static/js/2.50f35978.chunk.js",
-    "static/css/main.0c0d8654.chunk.css",
-    "static/js/main.6e699701.chunk.js"
+    "static/css/main.16cd7af5.chunk.css",
+    "static/js/main.186d4279.chunk.js"
   ]
 }
